@@ -1,7 +1,7 @@
 {
   "name": "fun-with-alexa",
   "description": "Java web service to connect to salesforce",
-  "repository": "https://github.com/Subhojeet21/fun-with-alexa",
+  "repository": "https://github.com/Subhojeet21/fun-with-alexa.git",
   "buildpacks": [
     {
       "url": "heroku/java"
