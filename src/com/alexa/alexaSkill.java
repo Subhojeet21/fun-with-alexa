@@ -44,8 +44,8 @@ public class alexaSkill{
 		pred.version = "1.0";
 		pred.response = rp;
 		
-		//return Obj.writeValueAsString(pred);
-		return "आ गए बड़े लोग";
+		return Obj.writeValueAsString(pred);
+		//return "आ गए बड़े लोग";
     }
 	
 	public class Prediction{
