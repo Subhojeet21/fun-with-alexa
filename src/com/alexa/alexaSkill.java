@@ -34,7 +34,7 @@ public class alexaSkill{
 		ObjectMapper Obj = new ObjectMapper();
 		OutputSpeech resp1 = new OutputSpeech();
 		resp1.type = "SSML";
-		resp1.ssml = "<speak><lang xml:lang=\"hi-IN\">Aa gaye bade log.</lang></speak>";
+		resp1.ssml = "<speak><lang xml:lang=\"hi-IN\">आ गए बड़े लोग.</lang></speak>";
 		
 		Response rp = new Response();
 		rp.outputSpeech = resp1;
