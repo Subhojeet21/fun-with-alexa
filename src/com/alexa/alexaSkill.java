@@ -35,7 +35,7 @@ public class alexaSkill{
 		OutputSpeech resp1 = new OutputSpeech();
 		resp1.type = "SSML";
 		//resp1.ssml = "<speak><lang xml:lang=\"hi-IN\">आ गए बड़े लोग.</lang></speak>";
-		resp1.ssml = "<speak>Welcome, the big guys arrived!!!!</speak>";
+		resp1.ssml = "<speak><emphasis level=\"strong\">oh my God look, who is here. <break time=\"1s\"/>Mr. Ghosh, the busy guy has arrived.</emphasis></speak>";
 		
 		Response rp = new Response();
 		rp.outputSpeech = resp1;
