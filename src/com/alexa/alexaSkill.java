@@ -37,8 +37,8 @@ public class alexaSkill{
 		//resp1.ssml = "<speak><lang xml:lang=\"hi-IN\">आ गए बड़े लोग.</lang></speak>";
 		//resp1.ssml = "<speak><emphasis level=\"strong\">oh my God look, who is here. <break time=\"1s\"/>Mr. Ghosh, the busy guy has arrived.</emphasis></speak>";
 		resp1.ssml = "<speak>Hey buddy,<break time=\"1s\"/> this is a pandemic situation due to Novel Corona virus. You should not travel anywhere this time. Our government and all health care professionals ";
-		resp1.ssml += "around the world are doing their best to control this situation. Now its our duty and responsibility to do our part. <break time=\"1s\"/>Stay home. <break time=\"1s\"/> Work from home. ";
-		resp1.ssml += "<break time=\"1s\"/>Wash your hands with soap and water or use hand sanitizer. <break time=\"1s\"/>Do not panic unnecessarily. <break time=\"1s\"/>Do not spread false news. <break time=\"1s\"/>Help elderly people. <break time=\"1s\"/>Stay safe.";
+		resp1.ssml += "around the world are doing their best to control this situation. Now its our duty and responsibility to do our part. <break time=\"1s\"/>Stay at home. <break time=\"1s\"/> Work from home. ";
+		resp1.ssml += "<break time=\"1s\"/>Wash your hands with soap and water or use hand sanitizer. <break time=\"1s\"/>Do not panic unnecessarily. <break time=\"1s\"/>Do not spread false news. <break time=\"1s\"/>Help elderly people. <break time=\"1s\"/>Stay safe. ";
 		resp1.ssml += "We are all in this together and if we follow all the precautionary measures and maintain social distancing, we all will get out of this situation soon.</speak>";
 
 		
